@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Configuration
-REMOTE_USER="intao"
-REMOTE_HOST="internal.intao.app"
-REMOTE_DIR="/home/intao/cockpit"
+REMOTE_USER="ubuntu"
+REMOTE_HOST="ip"
+REMOTE_DIR="/home/project"
 LOCAL_DIR="."
 
 # Colors for output
